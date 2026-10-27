@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="plant_green_primary">#2D6A4F</color>
+    <color name="plant_green_secondary">#52B788</color>
+    <color name="plant_dark">#1B4332</color>
+    <color name="plant_surface">#F4F9F4</color>
+    <color name="plant_accent">#E76F51</color>
+</resources>

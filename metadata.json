@@ -1,0 +1,6 @@
+{
+  "name": "PlantCare AI",
+  "description": "Diagnóstico de salud visual de plantas de interior con IA para agaves, cactus y bambú de la suerte, detección de luz/humedad y calendario interactivo de riego.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PlantCare AI</string>
+    <string name="plant_diagnosis_title">Diagnóstico de Plantas</string>
+    <string name="plant_diagnosis_subtitle">Salud visual, luz, humedad y riego para cactus, agaves y bambú</string>
+    <string name="upload_photo">Subir Fotografía</string>
+    <string name="take_photo">Tomar Foto</string>
+    <string name="samples_title">O prueba con una planta de ejemplo:</string>
+    <string name="analyzing_plant">Analizando salud botánica con IA…</string>
+    <string name="diagnose_now">Analizar Planta</string>
+    <string name="watering_schedule_title">Calendario Interactivo de Riego</string>
+    <string name="light_assessment">Evaluación de Luz</string>
+    <string name="humidity_assessment">Evaluación de Humedad y Sustrato</string>
+    <string name="treatment_plan">Plan de Tratamiento Recomendado</string>
+    <string name="mark_watered">Marcar como regada</string>
+    <string name="watered_done">¡Regada!</string>
+    <string name="saved_diagnoses">Historial de Plantas</string>
+    <string name="agave_guide">Guía Agaves</string>
+    <string name="cactus_guide">Guía Cactus</string>
+    <string name="bamboo_guide">Guía Bambú de la Suerte</string>
+</resources>
